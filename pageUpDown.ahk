@@ -1,11 +1,11 @@
 !u::
-    ;Send,{Down}
+    Send,{Down}
     Loop 5
         Click, WheelDown
 return
 
 !i::
-    ;Send,{Up}
+    Send,{Up}
     Loop 5
         Click, WheelUp
 return
