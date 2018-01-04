@@ -1,7 +1,7 @@
-#^a::
+#f::
     Send, #^{Left}
 return
 
-#^s::
+#g::
     Send, #^{Right}
 return
