@@ -1,3 +1,4 @@
+#NoTrayIcon
 
 !y::
     Loop 2

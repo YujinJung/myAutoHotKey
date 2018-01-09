@@ -1,7 +1,9 @@
-#f::
+#NoTrayIcon
+
+!f::
     Send, #^{Left}
 return
 
-#g::
+!g::
     Send, #^{Right}
 return
