@@ -7,6 +7,7 @@
 ; comment any line with comma before the line to disable the key map  
   
 #NoTrayIcon
+#SingleInstance force
 
 ; Volume_Mute:: send {F1}  
   

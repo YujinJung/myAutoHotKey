@@ -1,4 +1,5 @@
 #NoTrayIcon
+#SingleInstance force
 
 !f::
     Send, #^{Left}

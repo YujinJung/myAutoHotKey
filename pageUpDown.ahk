@@ -1,4 +1,5 @@
 #NoTrayIcon
+#SingleInstance force
 
 !y::
     Loop 2
