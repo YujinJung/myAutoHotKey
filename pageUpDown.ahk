@@ -1,11 +1,6 @@
 #NoTrayIcon
 #SingleInstance force
 
-!y::
-    Loop 2
-        Click, WheelLeft
-return
-
 !u::
     Loop 2
         Click, WheelDown
