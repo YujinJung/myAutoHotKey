@@ -31,3 +31,9 @@ return
 !l::
     Send,{Right}
 return
+
+^l::
+    Loop 4
+        Send, {Space}
+    Send, {control down}
+return

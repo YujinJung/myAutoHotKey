@@ -29,3 +29,4 @@ return
 !+y::
     Send, ^c{shift up}
 return
+
